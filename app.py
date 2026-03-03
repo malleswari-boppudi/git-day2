@@ -5,6 +5,6 @@ num = int(input("Enter a number: "))
 if num > 0:
     print("Positive number")
 elif num < 0:
-    print("Negative number_D2")
+    print("Negative number_D2v2")
 else:
     print("Zero")
